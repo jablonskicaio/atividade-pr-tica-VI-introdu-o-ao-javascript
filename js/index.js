@@ -99,7 +99,7 @@ const notaAula2 = 9;
 const notaAula3 = 8;
 let mediaNotas = (notaAula1+notaAula2+notaAula3)/3;
 
-document.write(`O ${nomeAluno} nomeAluno ficou com média ${mediaNotas}`)
+document.write(`O aluno ${nomeAluno} ficou com média ${mediaNotas}`)
 
 document.write(`<br>`)
 document.write(`<br>`)
